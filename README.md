@@ -42,7 +42,6 @@ Completed a beginner-level Python coding challenge on **HackerRank** — the "He
 
 Digital Literacy Awareness Quiz (Google Form):
 [Click here to take the quiz](https://docs.google.com/forms/d/e/1FAIpQLSefl2nr9glf0t2tTiZt_l99f-cJ3f54-_iuuUuxw9wI0T37Yg/viewform?usp=header)
-
 ### Task 4 – Professional Email & Etiquette Guide (Module 4)
 
 Drafted two professional emails:
