@@ -1,0 +1,24 @@
+Stay Safe Online – Checklist (For College Students in India)
+	•Using unique as well as strong passwords for every account and 2-factor authentication should be enabled wherever possible.
+	•Even if they claim to be from your bank or a trusted service ,Never share your OTP’s, PIN, or passwords with anyone
+	•Avoid tapping on unknown links that are received through WhatsApp, Instagram DMs ,SMS, or email.
+	•verification of job/internship offers before applying because scammers often target students with fake opportunities.
+	•Keeping your social media accounts private and limiting sharing of personal details like phone number, address, or college ID keeps us safe.
+	•Apps should only be installed from official sources (Google Play Store/App Store) and checking its reviews before downloading. 
+	•UPI Safety Tip 1: Never approve a “Collect Request” unless you are expecting money. Receiving money does NOT require entering a PIN.
+	•QR codes are used to pay, not to receive. Do not scan random QR codes to receive money.
+	•Keeping check on your bank statements and UPI transaction history for any activity that seems suspicious .
+	•Using secure networks; avoid logging into sensitive accounts on public Wi-Fi without protection.
+
+Report Cyber Crime
+	•	National Cyber Crime Portal: https://cybercrime.gov.in
+	•	Helpline Number: 1930
+
+?
+
+
+Reflection (100–150 words)
+
+In my research, I was surprised to find so many types of cybercrime scams that are simple, believable, and particularly focused on UPI transactions and students looking for a job. This leads me to believe that you do not have to be a genius hacker to be a successful cybercriminal; rather, you can just play on people's trust in you. I was also shocked to see how many people fall victim to cybercrime by simply authorizing payments or providing the fraud My One Time Password (OTP) keys to the fraudulent persons.
+
+One change that I will definitely make about myself is to always be more educated and careful about clicking on links or responding to any type of message, regardless of the credentials that are listed. I will also verify the UPI payment request before I approve it and have 2-factor authentication set up for all of my important accounts.
